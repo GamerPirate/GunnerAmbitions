@@ -1,2 +1,0 @@
-# GunnerAmbitions
-GitHub Pages
